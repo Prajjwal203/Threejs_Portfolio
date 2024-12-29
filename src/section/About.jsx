@@ -84,7 +84,7 @@ const About = () => {
                 </div>
             </div>
 
-            <div className='col-span-1 xl:row-span-1 xl:col-span-2'>
+            <div className='col-span-1 xl:col-span-1 xl:row-span-2'>
                 <div className='grid-container'>
                     <img src='/assets/grid4.png' alt='grid4' className="w-full md:h-[126px] sm:h-[276px] h-fit object-cover sm:object-top" />
                     <div className='space-y-2'>
