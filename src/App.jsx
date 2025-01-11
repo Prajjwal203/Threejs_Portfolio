@@ -4,6 +4,8 @@ import Hero from './section/Hero'
 import About from './section/About'
 import Projects from './section/Projects'
 import Clients from './section/Clients'
+import Contact from './section/Contact'
+import Footer from './section/Footer'
 
 const App = () => {
   return (
@@ -14,6 +16,9 @@ const App = () => {
       <About />
       <Projects />
       <Clients />
+
+      <Contact />
+      <Footer />
 
     </main>
 
